@@ -7,7 +7,10 @@
       "Bash(git rev-parse:*)",
       "WebSearch",
       "Bash(cat:*)",
-      "Bash(git --version)"
+      "Bash(git --version)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote add:*)"
     ],
     "deny": [],
     "ask": []
