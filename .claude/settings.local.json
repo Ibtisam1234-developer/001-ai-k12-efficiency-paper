@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(mkdir:*)",
+      "Bash(git rev-parse:*)",
+      "WebSearch",
+      "Bash(cat:*)",
+      "Bash(git --version)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

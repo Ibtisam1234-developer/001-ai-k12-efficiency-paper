@@ -1,0 +1,34 @@
+# General ignore patterns
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# IDE-specific ignores
+.vscode/
+.idea/
+
+# OS-specific ignores
+.Trash*
+
+# Generated files and build artifacts (for research paper)
+*.pdf
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.gz
+
+# Bibliography cache files (if using citation management software)
+*.bak
+*.blg
+*.bbl
+
+# Environment variables
+.env
+.env.local
